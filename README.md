@@ -1,4 +1,4 @@
-**COVID 19 DASHBOARD- VISUALIZATION WITH POWER BI**
+# COVID 19 data-  Dashboard with POWER BI
 
 In this project, I leveraged the COVID 19 dataset  used in SQL-data exploration project. 
 
